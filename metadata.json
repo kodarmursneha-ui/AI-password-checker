@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel AI - Password Strength Analyzer",
+  "description": "An advanced, AI-powered password strength auditor that provides detailed entropy analysis, crack time estimation, and security improvement suggestions.",
+  "requestFramePermissions": []
+}
